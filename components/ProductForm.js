@@ -158,7 +158,7 @@ export default function ProductForm({
         />
         <button
           type="submit"
-          className="btn-primary">
+          className="bg-blue-900 text-white px-4 py-1 rounded-sm shadow-sm">
           Save
         </button>
       </form>
